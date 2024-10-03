@@ -1,0 +1,13 @@
+body{
+    background-color: #001f3f;
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/section2a-overview-static-bg_widescreen?qlt=87,1&resMode=bilin&fmt=jpg&scl=1);
+    color: #ccc ;
+}
+
+.outro{
+    margin-top: 20px;
+}
+.span1{
+    font-weight: bold;
+    font-size: 1.5em;
+}
